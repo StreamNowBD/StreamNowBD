@@ -36,7 +36,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Bangladeshi News", Shomoy TV (N)
 http://103.205.133.18/hls/somoy.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangladeshi", RTV HD
+http://103.205.133.18/hls/rtv.m3u8
 
 
                                                     ***** Bangladeshi *****
