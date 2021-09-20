@@ -1,18 +1,20 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/18A7U89.png",IPTVBD-CrackStoreBD
 https://i.imgur.com/EuctKa4.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg.jpg" group-title="IPL Live", Live 1
-https://cdnn.ipldekh.xyz/ipllive/480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", Live 2
-http://bdiptv.net:8080/SonySix/tracks-v1a1/mono.m3u8?token=e135fd085063760ef6aaaacd56614db05faf61e2-cb3eef952ced7621628e5df9afc4b9e7-1632082152-1632071352
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", Live 3
-https://tv.bdiptv.stream:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/starsports1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", Live 4
-https://tv.bdiptv.stream:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/s1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", Live 5
-http://tv.c1live.com:8081/c1O7u0cF8lOzId/gazi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d0bq2cC.jpg" group-title="IPL Live", Live 6
-http://titanmedia.one:2082/Rafa/ZY6MJn0jAp/39548
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg.jpg" group-title="IPL Live", IPL Live 1
+https://s1.pkcast123.me:999/hls/QWDT0Yk14A20210415.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 2
+https://s2.pkcast123.me:999/hls/sELghL3SBe20210415.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 3
+https://s2.pkcast123.me:999/hls/zabTFpRMVg20210415.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 4
+https://s1.pkcast123.me:999/hls/QWDT0Yk14A20210415.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 5
+http://51.159.19.36/pkind-Sports:StarSportstamil1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0bq2cC.jpg" group-title="IPL Live", IPL Live 6
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0bq2cC.jpg" group-title="IPL Live", IPL Live 7
+http://51.159.19.36/pkind-Sports:StarSportstamil1/tracks-v1a1/index.m3u8
 
 
 
