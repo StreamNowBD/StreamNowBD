@@ -4,8 +4,19 @@ https://i.imgur.com/EuctKa4.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 1
 http://51.159.19.36/pkind-Sports:StarSportstamil1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 2
+http://starshare.live:8080/live/21432143/21432143/211.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 3
+http://starshare.live:8080/live/21432143/21432143/23941.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 4
+http://starshare.live:8080/live/21432143/21432143/9399.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 5
+https://prod-fastly-ap-southeast-1.video.periscope.tv/Transcoding/v1/hls/XbjvxsBzItu9ErhiNPeHByumHzwThC9YJ5fQi1QVcBm9awMS-6udjhzrzp7lQcyHzQBqJjMZ5VegO4s95fqxFw/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 6
+https://prod-fastly-ap-southeast-1.video.periscope.tv/Transcoding/v1/hls/XbjvxsBzItu9ErhiNPeHByumHzwThC9YJ5fQi1QVcBm9awMS-6udjhzrzp7lQcyHzQBqJjMZ5VegO4s95fqxFw/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 7
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoczpYt.jpeg" group-title="IPL Live", IPL Live 9
 
 
 
